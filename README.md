@@ -340,7 +340,5 @@ API 未开启返回值
 ## LICENSE
 
 GNU General Public License v3.0
-
-
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faimerforreimu%2Fauxpi.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Faimerforreimu%2Fauxpi?ref=badge_large)
+[![image](iframe组件截图图片链接)](https://yxvm.com/)
+[NodeSupport](https://github.com/NodeSeekDev/NodeSupport)赞助了本项目
